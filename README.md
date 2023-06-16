@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first git project
+BookBot is my first project using git and WSL
